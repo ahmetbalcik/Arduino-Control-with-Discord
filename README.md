@@ -2,7 +2,7 @@
 
 **Proje Adı: Arduino Control with Discord**
 
-**Açıklama:**
+##**Açıklama:**
 Bu proje Discord üzerinden basit komutlarla Arduino tabanlı bir cihazın kontrol edilmesini sağlar. Özellikle ev otomasyonu veya uzaktan kontrol projeleri için ideal bir temel oluşturur. Proje, Discord botu aracılığıyla Arduino'ya seri iletişim aracılığıyla komut göndermeyi ve ardından belirli eylemleri gerçekleştirmeyi sağlar. 🚀
 
 **Kurulum Talimatları:**
