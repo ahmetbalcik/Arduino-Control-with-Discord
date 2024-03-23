@@ -1,11 +1,9 @@
 # 🤖 Arduino Control with Discord 📡
 
-**Proje Adı: Arduino Control with Discord**
-
 ## **Açıklama:**
 Bu proje Discord üzerinden basit komutlarla Arduino tabanlı bir cihazın kontrol edilmesini sağlar. Özellikle ev otomasyonu veya uzaktan kontrol projeleri için ideal bir temel oluşturur. Proje, Discord botu aracılığıyla Arduino'ya seri iletişim aracılığıyla komut göndermeyi ve ardından belirli eylemleri gerçekleştirmeyi sağlar. 🚀
 
-**Kurulum Talimatları:**
+## **Kurulum Talimatları:**
 
 1. **Arduino Kodunu Yükleme:**
    - 🛠️ Arduino IDE veya uyumlu bir geliştirme ortamı kullanarak, Arduino'ya projenin kodunu yükleyin. Arduino kodu arduino dosyasında, "arduDiscord.ino" adlı dosyada bulunmaktadır.
@@ -30,11 +28,11 @@ Bu proje Discord üzerinden basit komutlarla Arduino tabanlı bir cihazın kontr
    ```
    - `npm install .` veya `yarn install .` komutunu kullanarak gerekli Node.js modüllerini yükleyin.
 
-8. **Projeyi Başlatma:**
+6. **Projeyi Başlatma:**
    - ▶️ Terminalde veya komut istemcisinde, proje dizinine gidin.
    - `node app.js` komutunu kullanarak projeyi başlatın.
 
-9. **Discord Üzerinde Kullanım:**
+7. **Discord Üzerinde Kullanım:**
    - 💬 Discord sunucusunda, oluşturduğunuz botun prefixini kullanarak belirlediğiniz komutları gönderin.
    - Örneğin, eğer prefixiniz "!" ise, `!ledon` komutu LED'i açacaktır.
 
